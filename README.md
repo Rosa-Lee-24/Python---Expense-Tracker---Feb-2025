@@ -11,17 +11,18 @@ Features
 
 The application allows users to:
 
-- Log expenses by entering an amount, category, and description.
-- View a summary of total spending.
-- See a breakdown of expenses by category.
-- Review all logged expenses in a structured format.
-- Programming Language
+- Log expenses by entering an amount, category, and description
+- View a summary of total spending
+- See a breakdown of expenses by category
+- Review all logged expenses in a structured format
+
+Programming Language
 
 The application is built using Python.
 
 Future Enhancements
 
-- Implement a file-based storage system to save and retrieve expense data.
-- Add a graphical user interface (GUI) for a more user-friendly experience.
-- Introduce data visualization (charts/graphs) to better analyze spending patterns.
-- Integrate with an API to fetch currency exchange rates for multi-currency expense tracking.
+- Implement a file-based storage system to save and retrieve expense data
+- Add a graphical user interface (GUI) for a more user-friendly experience
+- Introduce data visualization (charts/graphs) to better analyze spending patterns
+- Integrate with an API to fetch currency exchange rates for multi-currency expense tracking
